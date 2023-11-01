@@ -1,0 +1,12 @@
+package com.uni.admin.models.paciente.enums;
+
+public enum NivelEducativo {
+    SIN_EDUCACION_FORMAL,
+    PRIMARIO_COMPLETO,
+    PRIMARIO_INCOMPLETO,
+    SECUNDIARIO_COMPLETO,
+    SECUNDARIO_INCOMPLETO,
+    UNIVERSITARIO_INCOMPLETO,
+    UNIVERSITARIO_COMPLETO,
+    TERCIARIO
+}

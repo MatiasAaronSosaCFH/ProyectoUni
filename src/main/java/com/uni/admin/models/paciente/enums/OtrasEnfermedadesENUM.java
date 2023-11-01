@@ -1,0 +1,15 @@
+package com.uni.admin.models.paciente.enums;
+
+public enum OtrasEnfermedadesENUM {
+
+    CANCER,
+    NEOPLASIAS,
+    ALCOHOLISMO,
+    OTROS_TOXICOS_MARIHUANA_COCAINA,
+    ALERGIAS_A_MEDICAMENTOS_ALIMENTOS,
+    ANEMIAS,
+    TRANFUSIONES_DE_SANGRE,
+    OPERACIONES,
+    ARTROSIS_ARTRITIS,
+    OTROS
+}
